@@ -1,0 +1,30 @@
+header
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100% ;
+    background-color: purple;
+    text-align: center;
+    padding: 5px;
+    color: beige;
+}
+
+
+
+footer
+{position:fixed;
+bottom: 0;
+left: 0;
+width: 100%;
+background-color: beige;
+text-align: center;
+padding: 5px;
+color: black;
+}
+
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+}
